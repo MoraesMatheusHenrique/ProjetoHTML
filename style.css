@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+}
+ h1 {
+   color: red;
+   text-align: center;
+ }
+  p {
+    color: blue;
+    text-align: center;
+    font-size: 30px
+  }
+ ol {
+   font-size: 30px
+   text-align:justify;
+ }
