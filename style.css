@@ -12,5 +12,11 @@ body {
   }
  ol {
    font-size: 30px
-   text-align:justify;
+   text-align: justify;
  }
+#matheus {
+  width: 400px;
+  height: 600px;
+  border: 30px solid paleturquoise;
+  margin: 50px;
+}
